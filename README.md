@@ -21,6 +21,16 @@ An installation-free demo of UniRes is available in Colab:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1UtxRCr486uvDPibOKqfyicGNc-y5edQR?usp=sharing "UniRes Colab Demo")
 
+
+## 0. Environment 
+```
+docker pull stevezeyuzhang/unires:1.9
+```
+```
+conda activate unires
+
+```
+
 ## 1. Python
 
 ### 1.1. Installation
